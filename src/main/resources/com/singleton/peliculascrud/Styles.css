@@ -1,0 +1,21 @@
+.label1{
+    -fx-font-family: "Bauhaus 93";
+    -fx-alignment: center;
+    -fx-background-radius:15 ;
+    -fx-background-color:#7F7F7F ;
+    -fx-text-fill: #F9F201;
+}
+.labels{
+    -fx-font-family: "Bauhaus 93";
+    -fx-alignment: center;
+    -fx-background-radius:15 ;
+    -fx-background-color:#7F7F7F ;
+    -fx-text-fill: #F9F201;
+}
+.Button {
+    -fx-background-color: #7F7F7F;
+    -fx-text-fill:#F9F201;
+    -fx-background-radius:10 ;
+    -fx-font-family: "Bauhaus 93";
+
+}
